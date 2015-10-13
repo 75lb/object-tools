@@ -21,10 +21,10 @@
     "tape": "^4"
   },
   "dependencies": {
-    "array-tools": "^2.0.0",
+    "array-tools": "^2.0.2",
     "collect-json": "^1",
-    "object-get": "^1.0.0",
+    "object-get": "^2.0.0",
     "test-value": "^1",
-    "typical": "^2.2"
+    "typical": "^2.3.2"
   }
 }
