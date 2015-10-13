@@ -23,6 +23,7 @@
   "dependencies": {
     "array-tools": "^2.0.0",
     "collect-json": "^1",
+    "object-get": "^1.0.0",
     "test-value": "^1",
     "typical": "^2.2"
   }
