@@ -15,16 +15,16 @@
     "cover": "istanbul cover ./node_modules/.bin/tape test/*.js && cat coverage/lcov.info | ./node_modules/.bin/coveralls && rm -rf coverage; echo"
   },
   "devDependencies": {
-    "coveralls": "^2.11.2",
-    "istanbul": "^0.3.14",
-    "jsdoc-to-markdown": "^1.0.3",
-    "tape": "^4"
+    "coveralls": "^2.11.8",
+    "istanbul": "~0.4.2",
+    "jsdoc-to-markdown": "^1.3.3",
+    "tape": "^4.5.1"
   },
   "dependencies": {
-    "array-tools": "^2.0.2",
-    "collect-json": "^1",
-    "object-get": "^2.0.0",
-    "test-value": "^1",
-    "typical": "^2.3.2"
+    "array-back": "^1.0.2",
+    "collect-json": "^1.0.7",
+    "object-get": "^2.0.2",
+    "test-value": "^1.1.0",
+    "typical": "^2.4.2"
   }
 }
